@@ -1,4 +1,4 @@
-ბათუმის განაცხადის დეველოპერები
+აპლიკაციების დეველოპერები ბთუმიდან
 ================
 Batumi App Devs
 
@@ -9,9 +9,9 @@ Batumi App Devs
 ბათუმი აპლიკაციის დეველოპერები http://batumi.github.io - გაერთიანდნენ ღია ველის ენათმეცნიერები https://github.com/OpenSourceFieldlinguistics რათა შექმნან სიტყვის გამომცნობი ქართული ენის მოსაუბრეებთათვის.
 შენ შეგიძლია ისარგებლო ამ აპლიკაციით, მოამზადო შენი ანდროიდი, რათა გამოიცნო შენი მეტყველება. შენ უნდა წაიკითხო რამოდენიმე წინადადება და შემდეგ დაუკავშირდე WiFi-ს რათა გადაამზადო შენი ხმის მოდელი. ჩვენ ვიმედოვნებთ, რომ გვექნება უკეთესი .გამომცნობი რომელიც იქნება 10%ზე მეტი, თუმცა ქართული ენა განსხვავებულია სხვა ენებისგან, ასე რომ ჩვენ ჯერ არ ვიცით რამდენად გამოსაყენებელი იქნება ეს აპლიკაცია. შენ შეგიძლია სცადო, ეს არის უფრო მეტად ექსპერიმენტული და კვლევის პროგრამული უზრუნველყოფა, ასე რო ჩვენ არ შეგვიძლია მოგცეთ გარანტია, რომ ეს იქნება გამოსაყენებელი.
 
-* [Download app](https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.speech.kartuli)
+* [გადმოწერა](https://play.google.com/store/apps/details?id=com.github.opensourcefieldlinguistics.fielddb.speech.kartuli)
 * [აქ არის ჩვენი სლაიდის ლინკი](https://docs.google.com/presentation/d/1Dg9CbS54yD2WIztUC3pdvM1H25TfyOyEmMO_zn12lLk/edit)
-* [Bugs/Suggestions/Questions] (https://github.com/batumi/KartuliPocketSphinx/issues/milestones?state=closed)
+* [შეცდომები/შემოთავაზებები/კითხვეs] (https://github.com/batumi/KartuliPocketSphinx/issues/milestones?state=closed)
 
 
 
@@ -26,8 +26,8 @@ Are you a volunteer in Georgia and want to exercise your ქართული a
 
 Then maybe this app is for you!
 
-* [Download app](https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja)
-* [Bugs/Suggestions/Questions](https://github.com/batumi/KartuliChromeExtension/issues?state=open)
+* [გადმოწერა](https://chrome.google.com/webstore/detail/kartuli-glasses/ccmledaklimnhjchkcgideafpglhejja)
+* [შეცდომები/შემოთავაზებები/კითხვები]](https://github.com/batumi/KartuliChromeExtension/issues?state=open)
 
 
 
